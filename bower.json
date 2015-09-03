@@ -1,0 +1,21 @@
+{
+  "name": "hola-mundo-polymer",
+  "version": "1.0.0",
+  "authors": [
+    "Jorge Anaya <jorgea@bsm.com.mx>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "1.0.0"
+  }
+}
